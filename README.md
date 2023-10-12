@@ -1,4 +1,4 @@
-# Ddroid-App
+# Ddroidd-App
 What You Need / Prerequisites
 - Java 1.8
 - Maven (3.9.5)
